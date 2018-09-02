@@ -27,5 +27,5 @@
 
 Use the `printf()` function.<br/>
 ``There is a literal backtick (`) here.``<br/>
-*test*test<br/>
-**test**test<br/>
+*test* test<br/>
+**test** test<br/>
