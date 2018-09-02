@@ -3,7 +3,6 @@
 > > This is nested blockquote.
 >
 > Back to the first level.
-<br/>
 > ## This is a header.
 > 
 > 1.   This is the first list item.
