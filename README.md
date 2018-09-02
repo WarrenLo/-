@@ -24,3 +24,6 @@
 *   Red
 *   Green
 *   Blue
+
+Use the `printf()` function.
+``There is a literal backtick (`) here.``
